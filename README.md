@@ -16,5 +16,6 @@ mult=num1*num2*num3
 print("El resultado de la multiplicacion es: ",mult)
 print(" ")
 
-![image](https://github.com/user-attachments/assets/e36f970a-558a-44ce-8c59-a2e84b14632c)
+![image](https://github.com/user-attachments/assets/f9ba03cf-d07f-4bce-b411-61bd0f5a69df)
+
 ![image](https://github.com/user-attachments/assets/4c1d2e04-f5d9-4273-93be-6d6f09839e1e)
